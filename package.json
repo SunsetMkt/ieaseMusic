@@ -127,7 +127,7 @@
   },
   "dependencies": {
     "apicache": "^1.2.3",
-    "axios": "^0.18.0",
+    "axios": "^1.6.8",
     "body-parser": "^1.18.3",
     "classname": "0.0.0",
     "cookie-parser": "^1.4.3",
